@@ -4,9 +4,9 @@
 - 😄 Pronouns: he/him
 ***
 <div>
-  <a href="contato.msantos02@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" taget=_blank></a>
-  <a href="https://github.com/mulirosantos"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" taget=_blank></a>
-  <a href="linkedin.com/in/murilo-santos-34a54a244"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" taget=_blank></a>
+  <a href="contato.msantos02@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/mulirosantos" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="linkedin.com/in/murilo-santos-34a54a244" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
 
